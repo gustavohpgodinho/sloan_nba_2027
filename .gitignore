@@ -1,10 +1,11 @@
-*.parquet
-*.pkl.gz
+# arquivos grandes que nao vao para o repositorio
 pbp_tokenized.txt
+matrizes_probs_simulacoes_*.parquet
 simulations/
 summary_simulations/
 models/
 metrics_models/
 *.pdf
+
 .ipynb_checkpoints/
 __pycache__/
