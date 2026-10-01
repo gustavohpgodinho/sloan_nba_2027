@@ -1,0 +1,10 @@
+*.parquet
+*.pkl.gz
+pbp_tokenized.txt
+simulations/
+summary_simulations/
+models/
+metrics_models/
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
